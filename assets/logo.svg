@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">UAPowerGuardKit</title>
+  <desc id="desc">A blue shield with a yellow lightning bolt.</desc>
+  <path fill="#2563EB" d="M256 64 416 120 V248 C416 336 346 405 256 448 C166 405 96 336 96 248 V120 Z"/>
+  <path fill="#FACC15" d="M260 144 H316 L274 224 H340 L220 376 L244 280 H180 Z"/>
+</svg>
