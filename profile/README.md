@@ -14,8 +14,8 @@ UAPowerGuardKit — незалежний набір застосунків, пр
 
 | Компонент | Призначення |
 | --- | --- |
-| [Застосунок iOS](https://github.com/Baskerville42/SvitloBotIOS) | СвітлоБот: стан заряджання iPhone/iPad, сигнали серверу або окремий Telegram-fallback. |
-| [Прошивка ESP](https://github.com/Baskerville42/svitloboard) | SvitloBoard: сигнали доступності ESP8266/ESP32 до СвітлоБота або власної URL-адреси. |
+| [Застосунок iOS](https://github.com/uapowerguardkit/SvitloBotIOS) | СвітлоБот: стан заряджання iPhone/iPad, сигнали серверу або окремий Telegram-fallback. |
+| [Прошивка ESP](https://github.com/uapowerguardkit/svitloboard) | SvitloBoard: сигнали доступності ESP8266/ESP32 до СвітлоБота або власної URL-адреси. |
 | [Парсер графіків](https://github.com/Baskerville42/outage-data-ua) | outage-data-ua: обробка опублікованих графіків відключень у JSON та PNG. |
 | [Telegram-бот](https://github.com/uapowerguardkit/outage-schedule-bot) | GraphenkoBot: оновлення й закріплення PNG графіків у каналах і чатах. |
 
@@ -23,11 +23,11 @@ UAPowerGuardKit — незалежний набір застосунків, пр
 
 ## Як почати
 
-- **iOS:** [інструкція застосунку](https://baskerville42.github.io/SvitloBotIOS/) — налаштування моніторингу та Telegram-fallback.
-- **ESP:** [прошивання](https://github.com/Baskerville42/svitloboard#прошивання) → [налаштування пристрою](https://github.com/Baskerville42/svitloboard#як-це-працює).
+- **iOS:** [інструкція застосунку](https://uapowerguardkit.github.io/SvitloBotIOS/) — налаштування моніторингу та Telegram-fallback.
+- **ESP:** [прошивання](https://github.com/uapowerguardkit/svitloboard#прошивання) → [налаштування пристрою](https://github.com/uapowerguardkit/svitloboard#як-це-працює).
 - **Графіки відключень:** [формат даних](https://github.com/Baskerville42/outage-data-ua#формат-даних) і [готові PNG](https://github.com/Baskerville42/outage-data-ua/tree/main/images).
 - **Telegram:** [швидкий старт GraphenkoBot](https://github.com/uapowerguardkit/outage-schedule-bot#швидкий-старт) — підключення каналу або чату й вибір зображення графіка.
 
 ## Зворотний зв’язок
 
-Помилки та пропозиції залишайте в Issues відповідного продукту: [iOS](https://github.com/Baskerville42/SvitloBotIOS/issues) · [ESP](https://github.com/Baskerville42/svitloboard/issues) · [парсер графіків](https://github.com/Baskerville42/outage-data-ua/issues) · [Telegram-бот](https://github.com/uapowerguardkit/outage-schedule-bot/issues).
+Помилки та пропозиції залишайте в Issues відповідного продукту: [iOS](https://github.com/uapowerguardkit/SvitloBotIOS/issues) · [ESP](https://github.com/uapowerguardkit/svitloboard/issues) · [парсер графіків](https://github.com/Baskerville42/outage-data-ua/issues) · [Telegram-бот](https://github.com/uapowerguardkit/outage-schedule-bot/issues).
