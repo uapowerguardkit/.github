@@ -14,8 +14,8 @@ UAPowerGuardKit is an independent collection of apps, firmware, and services for
 
 | Component | Purpose |
 | --- | --- |
-| [iOS app](https://github.com/Baskerville42/SvitloBotIOS) | SvitloBot: iPhone/iPad charging status, server signals, or a separate Telegram fallback. |
-| [ESP firmware](https://github.com/Baskerville42/svitloboard) | SvitloBoard: ESP8266/ESP32 availability signals to SvitloBot or a custom URL. |
+| [iOS app](https://github.com/uapowerguardkit/SvitloBotIOS) | SvitloBot: iPhone/iPad charging status, server signals, or a separate Telegram fallback. |
+| [ESP firmware](https://github.com/uapowerguardkit/svitloboard) | SvitloBoard: ESP8266/ESP32 availability signals to SvitloBot or a custom URL. |
 | [Schedule parser](https://github.com/Baskerville42/outage-data-ua) | outage-data-ua: processes published outage schedules into JSON and PNG. |
 | [Telegram bot](https://github.com/uapowerguardkit/outage-schedule-bot) | GraphenkoBot: updates and pins schedule PNG images in channels and chats. |
 
@@ -23,11 +23,11 @@ UAPowerGuardKit is an independent collection of apps, firmware, and services for
 
 ## Get started
 
-- **iOS:** [app guide](https://baskerville42.github.io/SvitloBotIOS/) — monitoring and Telegram fallback setup.
-- **ESP:** [flashing](https://github.com/Baskerville42/svitloboard#прошивання) → [device setup](https://github.com/Baskerville42/svitloboard#як-це-працює).
+- **iOS:** [app guide](https://uapowerguardkit.github.io/SvitloBotIOS/) — monitoring and Telegram fallback setup.
+- **ESP:** [flashing](https://github.com/uapowerguardkit/svitloboard#прошивання) → [device setup](https://github.com/uapowerguardkit/svitloboard#як-це-працює).
 - **Outage schedules:** [data format](https://github.com/Baskerville42/outage-data-ua#формат-даних) and [ready-made PNG images](https://github.com/Baskerville42/outage-data-ua/tree/main/images).
 - **Telegram:** [GraphenkoBot quick start](https://github.com/uapowerguardkit/outage-schedule-bot#швидкий-старт) — connect a channel or chat and select a schedule image.
 
 ## Feedback
 
-Report bugs and suggest improvements in the relevant product’s Issues: [iOS](https://github.com/Baskerville42/SvitloBotIOS/issues) · [ESP](https://github.com/Baskerville42/svitloboard/issues) · [Schedule parser](https://github.com/Baskerville42/outage-data-ua/issues) · [Telegram bot](https://github.com/uapowerguardkit/outage-schedule-bot/issues).
+Report bugs and suggest improvements in the relevant product’s Issues: [iOS](https://github.com/uapowerguardkit/SvitloBotIOS/issues) · [ESP](https://github.com/uapowerguardkit/svitloboard/issues) · [Schedule parser](https://github.com/Baskerville42/outage-data-ua/issues) · [Telegram bot](https://github.com/uapowerguardkit/outage-schedule-bot/issues).
